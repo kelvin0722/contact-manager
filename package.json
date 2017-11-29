@@ -1,0 +1,14 @@
+{
+  "name": "contact-manager",
+  "version": "1.0.0",
+  "description": "a cli for managing contacts",
+  "main": "index.js",
+  "repository": "https://github.com/kelvin0722/contact-manager.git",
+  "author": "kelvin mwangi",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.12.2",
+    "inquirer": "^4.0.1",
+    "mongoose": "^4.13.5"
+  }
+}
