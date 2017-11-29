@@ -6,6 +6,10 @@
   "repository": "https://github.com/kelvin0722/contact-manager.git",
   "author": "kelvin mwangi",
   "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "contacto": "./contact.js"
+  },
   "dependencies": {
     "commander": "^2.12.2",
     "inquirer": "^4.0.1",
